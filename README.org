@@ -1,0 +1,17 @@
+A quick and dirty tool whose original purpose is to be able to make quick math table tests.
+
+Right now it just supports a 4x10 table matching the 2 min format done in my child's school
+
+* Usage
+
+  Use the URL 
+  : /tables/number_to_do_math_tables
+
+  For example
+
+  : /tables/4
+
+  This will generate random multiplication tables for 4 * 0..12.  
+
+
+  
