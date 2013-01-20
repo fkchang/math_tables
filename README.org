@@ -13,6 +13,7 @@ Right now it just supports a 4x10 table matching the 2 min format done in my chi
 
   This will generate random multiplication tables for 4 * 0..12.  
 
+  The table is optimized to print in landscape mode on my home printer
 
   
 ------------
