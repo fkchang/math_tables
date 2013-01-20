@@ -15,3 +15,6 @@ Right now it just supports a 4x10 table matching the 2 min format done in my chi
 
 
   
+------------
+
+currently deployed at http://math-tables.herokuapp.com
